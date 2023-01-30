@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: rgb(213, 213, 238);
+    font-family: 'Verdana', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title{
+    color: rgb(118, 118, 174);
+}
+#dilli{
+    background-color: black;
+}
